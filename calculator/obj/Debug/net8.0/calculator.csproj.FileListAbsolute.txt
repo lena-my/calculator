@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/12-calculator/calculator/bin/Debug/net8.0/calculator
+/Users/helenamiura/Projects/Net/12-calculator/calculator/bin/Debug/net8.0/calculator.deps.json
+/Users/helenamiura/Projects/Net/12-calculator/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/Users/helenamiura/Projects/Net/12-calculator/calculator/bin/Debug/net8.0/calculator.dll
+/Users/helenamiura/Projects/Net/12-calculator/calculator/bin/Debug/net8.0/calculator.pdb
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.sourcelink.json
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.dll
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/refint/calculator.dll
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.pdb
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/12-calculator/calculator/obj/Debug/net8.0/ref/calculator.dll
